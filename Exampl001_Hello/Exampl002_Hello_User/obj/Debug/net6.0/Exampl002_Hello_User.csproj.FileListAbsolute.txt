@@ -1,0 +1,15 @@
+C:\Users\Alex\Desktop\Лекция_1\Exampl001_Hello\Exampl002_Hello_User\bin\Debug\net6.0\Exampl002_Hello_User.exe
+C:\Users\Alex\Desktop\Лекция_1\Exampl001_Hello\Exampl002_Hello_User\bin\Debug\net6.0\Exampl002_Hello_User.deps.json
+C:\Users\Alex\Desktop\Лекция_1\Exampl001_Hello\Exampl002_Hello_User\bin\Debug\net6.0\Exampl002_Hello_User.runtimeconfig.json
+C:\Users\Alex\Desktop\Лекция_1\Exampl001_Hello\Exampl002_Hello_User\bin\Debug\net6.0\Exampl002_Hello_User.dll
+C:\Users\Alex\Desktop\Лекция_1\Exampl001_Hello\Exampl002_Hello_User\bin\Debug\net6.0\Exampl002_Hello_User.pdb
+C:\Users\Alex\Desktop\Лекция_1\Exampl001_Hello\Exampl002_Hello_User\obj\Debug\net6.0\Exampl002_Hello_User.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\Лекция_1\Exampl001_Hello\Exampl002_Hello_User\obj\Debug\net6.0\Exampl002_Hello_User.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\Лекция_1\Exampl001_Hello\Exampl002_Hello_User\obj\Debug\net6.0\Exampl002_Hello_User.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\Лекция_1\Exampl001_Hello\Exampl002_Hello_User\obj\Debug\net6.0\Exampl002_Hello_User.AssemblyInfo.cs
+C:\Users\Alex\Desktop\Лекция_1\Exampl001_Hello\Exampl002_Hello_User\obj\Debug\net6.0\Exampl002_Hello_User.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Лекция_1\Exampl001_Hello\Exampl002_Hello_User\obj\Debug\net6.0\Exampl002_Hello_User.dll
+C:\Users\Alex\Desktop\Лекция_1\Exampl001_Hello\Exampl002_Hello_User\obj\Debug\net6.0\refint\Exampl002_Hello_User.dll
+C:\Users\Alex\Desktop\Лекция_1\Exampl001_Hello\Exampl002_Hello_User\obj\Debug\net6.0\Exampl002_Hello_User.pdb
+C:\Users\Alex\Desktop\Лекция_1\Exampl001_Hello\Exampl002_Hello_User\obj\Debug\net6.0\Exampl002_Hello_User.genruntimeconfig.cache
+C:\Users\Alex\Desktop\Лекция_1\Exampl001_Hello\Exampl002_Hello_User\obj\Debug\net6.0\ref\Exampl002_Hello_User.dll
